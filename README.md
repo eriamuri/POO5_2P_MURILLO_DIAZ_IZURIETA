@@ -1,1 +1,2 @@
-# POO5_2P_MURILLO_DIAZ_IZURIETA
+# ProyectoPOO-PAO2-2023
+ Proyecto de POO viajes 
