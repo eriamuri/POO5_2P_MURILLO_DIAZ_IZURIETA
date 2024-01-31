@@ -1,0 +1,36 @@
+AV001,Guayaquil,Barcelona,2,03:00,05:00,Airbus A001,1233.06
+AV002,Manta,Barcelona,3,5:00,8:00,Airbus A002,63.09
+AV003,Barcelona,Manta,4,8:00,12:00,Airbus A003,3123.12
+AV004,Barcelona,Guayaquil,2,12:00,14:00,Airbus A004,1653.3
+AV005,Guayaquil,Barcelona,3,14:00,17:00,Airbus A005,32.34
+AV006,Barcelona,Guayaquil,4,17:00,21:00,Airbus A006,6534.12
+AV007,Guayaquil,Barcelona,2,21:00,01:00,Airbus A007,987.15
+AV008,Guayaquil,Barcelona,3,01:00,04:00,Airbus A008,1230.32
+AV009,Guayaquil,New York,4,04:00,08:00,Avion A009,421.11
+AV010,Quito,Rio de Janeiro,2,08:00,10:00,Aivion A010,500.2
+AV011,Guayaquil,Sidney,3,10:00,13:00,Avion A011,555.5
+AV012,Quito,Shangai,4,13:00,17:00,Avion A012,1234.5
+AV013,Shangai,Quito,2,17:00,19:00,Avion A013,897.12
+AV014,Guayaquil,Estambul,3,19:00,22:00,Avion A014,123.32
+AV015,Guayaquil,Buenos Aires,4,22:00,04:00,Avion A015,545.21
+AV016,Quito,Barcelona ,2,04:00,06:00,Avion A016,670.12
+AV017,Guayaquil,París,3,06:00,09:00,Avion A017,340.12
+AV018,Manta,Cali,4,09:00,13:00,Avion A018,998.32
+AV019,Guayaquil,Roma,2,13:00,15:00,Avion A019,989.2
+AV020,Manta,Nigeria,3,15:00,18:00,Avion A020,1234.5
+AV021,Guayaquil,Lima,4,18:30,22:30,Avion A021,987.2
+AV022,Manta,Egipto,2,22:30,00:30,Avion A022,1200.0
+AV023,Guayaquil,México,3,00:30,03:30,Avion A023,456.9
+AV024,New York,Guayaquil,4,03:30,07:20,Avion A024,421.11
+AV025,Rio de Janeiro,Quito,2,09:00,11:00,Aivion A025,500.2
+AV026,Sidney,Guayaquil,3,10:00,13:00,Avion A026,555.5
+AV027,Estambul,Guayaquil,3,19:00,22:00,Avion A027,123.32
+AV028,Buenos Aires,Guayaquil,4,22:00,04:00,Avion A028,545.21
+AV029,Barcelona,Quito ,2,04:00,06:00,Avion A029,670.12
+AV030,París,Guayaquil,3,06:00,09:00,Avion A030,340.12
+AV031,Cali,Manta,4,09:00,13:00,Avion A031,998.32
+AV032,Roma,Guayaquil,2,13:00,15:00,Avion A032,989.2
+AV033,Nigeria,Manta,3,15:00,18:00,Avion A033,1234.5
+AV034,Lima,Guayaquil,4,18:30,22:30,Avion A034,987.2
+AV035,Egipto,Manta,2,22:30,00:30,Avion A035,1200.0
+AV036,México,Guayaquil,3,00:30,03:30,Avion A036,456.9
